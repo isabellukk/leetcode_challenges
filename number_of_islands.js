@@ -1,7 +1,7 @@
-// ------- Number of Islands -------
+//------- Number of Islands -------//
 // https://leetcode.com/problems/number-of-islands/
 
-// Notes on problem below
+//----------------NOTES----------------//
 /*
 Depth First Search (DFS)
 - traverses the graph and explores each adjacent node before backtracking and moving to the next node
