@@ -1,5 +1,9 @@
 # LeetCode Solutions In JavaScript
+### With a Sprinkle of HackerRank 
+#### Because Why Not?
 
+
+##### 
 Do not explode as LeetCode might cause overload </br>
 Here are my solutions to ease the confusions </br>
 All are solved in JavaScript, so cmon lets get equipped! </br>
