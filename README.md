@@ -10,4 +10,5 @@ All are solved in JavaScript, so cmon lets get equipped! </br>
 
 | # | Title | Source Code | Difficulty |
 |:---:|:---:|:---:|:---:|
-|1|[Number-Of-Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](https://github.com/isabellukk/leetcode_challenges/blob/main/number_of_islands.js)|Medium|
+|1|[Number Of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](https://github.com/isabellukk/leetcode_challenges/blob/main/number_of_islands.js)|Medium|
+|2|[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|[Solution](https://github.com/isabellukk/leetcode_challenges/blob/main/time_conversion.js)|Easy|
